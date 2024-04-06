@@ -1,0 +1,21 @@
+.sec2{
+    background-color: darkgoldenrod;
+    padding: 150px;
+}
+.pic1{
+  margin-top: -135px;
+  width: 100%;
+}
+.para1{
+    font-size: 45px;
+    
+    
+    
+}
+.pic2{
+    height: 245px;
+    float: left;
+}.butt{
+    background-color: rgb(83, 105, 98);
+    border-color: bisque;
+}
